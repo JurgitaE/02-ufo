@@ -10,13 +10,13 @@
   <body style="background-color: blue">
     <main
       style="
-        width: 50%;
-        margin-top: 100px;
-        margin-left: 25%;
         display: inline-block;
+        width: 50%;
+        margin-top: 170px;
+        margin-left: 25%;
       "
     >
-      <div style="width: 35%; margin-top: 50px; float: left">
+      <div style="width: 35%; float: left; margin-top: 100px">
         <h1 style="color: white; font-size: 80px; margin: 0">404</h1>
         <p
           style="
@@ -40,38 +40,42 @@
   </body>
 </html>
 <!-- 
-    STILIAUS SABLONAI
-    savybes-pavadinimas: reiksme;
 
-    KONKRECIOS SAVYBES
-    background-color: red;
-    color: orange;
-    font-size: 40px;
-    font-family: Verdana;
-    font-weight: bold; -> 700
-    font-weight: normal; -> 400
-    font-weight: 100-900;
-    text-transform: lowercase, uppercase, capitalize;
-    width: 50%;
+STILIAUS SABLONAI:
+savybes-pavadinimas: reiksme;
+savybe: reiksme;
 
-    Elementu stumdymas tarpusavyje:
-    margin: 100px; visomis kryptimis aplink elementa
-    margin-top:
-    margin-bottom:
-    margin-left:
-    margin-right:
-    
-    ELEMENTU atvaizdavimas:
-    display: block;         (dauguma elementu) block elementai krenta vienas po kitu
+KONKRECIOS SAVYBES:
 
-    display: inline;      elementas elgiasi kaip zodis tekste
+background-color: red;
+color: orange;
 
-    display: inline-block; jeigu elementai telpa i viena eilute - suguls; jei netelpa - krenta i nauja; jei jame yra daugiau turinio nei tilptu'teva', tai jo max plotis yra 100%
-    tarp inline-block tarpas 4px
+font-size: 40px;
+font-family: Arial;
+font-weight: normal; -> 400;
+font-weight: bold;   -> 700;
 
-    Priverstinis elementu sustumimas pasirinkta kryptimi (ant tevo det inline block):
-  float: left;
-  float: right;
+text-transform: uppercase;
+text-transform: lowercase;
+text-transform: capitalize;
 
+Elementu strumdymas tarpusavyje:
+margin: 100px;      visomis kryptimis aplink si elementa
+margin-top: 100px;
+margin-right: 100px;
+margin-bottom: 100px;
+margin-left: 100px;
 
- -->
+Elementu atvaizdavimas:
+display: block;             visi block elementai krenta vienas po kitu (dauguma elementu)
+display: inline;            elementas elgiasi kaip zodis tekste
+display: inline-block;      jeigu elementai telpa i viena eilute - suguls;
+                            jei netelpa - sekantis krenta i nauja eilute;
+                            jei jame yra daugiau turinio nei tilptu pas "teva",
+                            tai jo max plotis yra 100%. GAP 4px
+
+Priverstinis elementu sustumimas pasirinkta kryptimi (ant tevo tada deti inline-block arba inline, tik ne block):
+float: left;
+float: right;
+
+-->
