@@ -93,7 +93,7 @@ Jurgita: [Github](https://github.com/JurgitaE)
 
 ## ⚠️ License
 
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the ISC License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
 
