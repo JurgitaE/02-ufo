@@ -16,6 +16,6 @@ Siandien reikia padaryti:
 - [ ] daryti
 - [x] padaryta
 
-
-
 Daugiau informacijos [wikipedijoje](https://www.wikipedia.org/).
+
+![Ufonautas ir jo lekste](./img/ufo.png)
