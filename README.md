@@ -8,10 +8,14 @@ Simple design, Learning HTML &amp; CSS
 
 #### H4
 
+- labas
+- rytas
+
+Siandien reikia padaryti:
+
 - [ ] daryti
 - [x] padaryta
 
-- bullet
-- point :)
+
 
 Daugiau informacijos [wikipedijoje](https://www.wikipedia.org/).
