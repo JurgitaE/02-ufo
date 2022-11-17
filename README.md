@@ -1,6 +1,6 @@
 # 02-ufo
 
-Simple design, Learning HTML &amp; CSS
+Simple design, Learning _**HTML**_ and _CSS_
 
 ## H2
 
