@@ -11,4 +11,7 @@ Simple design, Learning HTML &amp; CSS
 - [ ] daryti
 - [x] padaryta
 
-Daugiau informacijos [wikipedijoje](https://www.wikipedia.org/)
+- bullet
+- point :)
+
+Daugiau informacijos [wikipedijoje](https://www.wikipedia.org/).
